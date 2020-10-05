@@ -1,6 +1,6 @@
 <img align="right" alt="GIF" src="https://eduupacheco.github.io/assets/img/profile-img.jpg" width="270" height="330" />
 
-### Hey there! I'm Eduardo Pacheco <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hey there! I'm Eduardo Pacheco <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 Hi, I'm [Eduardo Pacheco](https://eduupacheco.github.io/), a Full Stack Developer 🚀 from Tenerife, Canary Islands. I like everything that has to do with design and architecture. Despite spending days in front of a screen listening music and programming, I doing sports, specifically street workout and traveling the world. If you ask me if I like science fiction, I would say no. I just love it. I am a complete fan of Marvel.
 
@@ -37,7 +37,7 @@ Hi, I'm [Eduardo Pacheco](https://eduupacheco.github.io/), a Full Stack Develope
 
  ---
   
-### Marvelita Project:
+# Marvelita Project
 
 The most logical reason for the initiation of this project is obvious. As a good fan of Marvel, I decided to direct a simple website to publish news of all kinds about Marvel, until I had the need to develop an API to scale said website. That's right, nowadays the Marvelita website is fully functional, new improvements are being implemented little by little and there are not a few users who enjoy the website.
 
@@ -47,7 +47,7 @@ The most logical reason for the initiation of this project is obvious. As a good
 
   ---
 
-### What is Dixton Software?
+# What is Dixton Software?
 
 Dixton Software is my team of talented developers and designers who help improve the management and image of the best companies. This project was born for several reasons, among them, the most outstanding is to be able to give elegant and creative solutions to our daily needs on a day-to-day basis. Step by step new projects and ideas have been added to this great team for improve our daily needs, such as the following ones:
 
@@ -59,7 +59,7 @@ Dixton Software is my team of talented developers and designers who help improve
 
   ---
 
-**Languages and Tools:**  
+### Languages and Tools:
 
 Almost 4 years of experience as a programmer and even so there are technologies that I still have to experiment with and others that I know but I cannot get everyone's knowledge. The world of technology is moving faster and faster ...
 
