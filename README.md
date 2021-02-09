@@ -6,7 +6,6 @@ Hi, I'm [Eduardo Pacheco](https://eduupacheco.github.io/), a Full Stack Develope
 
 - 🧳 I’m developing software at [Bianor](https://www.bianor.com).
 - 👨🏽‍💻 I’m currently working on my project [Dixton Software](http://dixton-software.firebaseapp.com).
-- ⚙ I’m creating plugins for [Superficción](https://super-ficcion.com).
 - 🌐 I’m managing the website of [Marvelita](http://marvelita.es).
 - 💽 I’m managing the record label [audimus](https://www.youtube.com/channel/UCmMdvNTL3siUGtylCDccdYQ).
 - 🌱 I’m currently learning Electron.js, Swift & Python (with Django).
