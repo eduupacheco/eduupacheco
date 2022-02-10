@@ -4,11 +4,11 @@
 
 Hi, I'm [Eduardo Pacheco](https://eduupacheco.github.io/), a Full Stack Developer 🚀 from Tenerife, Canary Islands. I like everything that has to do with design and architecture. Despite spending days in front of a screen listening music and programming, I doing sports, specifically street workout and traveling the world. If you ask me if I like science fiction, I would say no. I just love it. I am a complete fan of Marvel.
 
-- 🧳 I’m developing software at [Bianor](https://www.bianor.com).
+- 🧳 I’m developing software at [Qnary](https://www.qnary.com).
 - 👨🏽‍💻 I’m currently working on my project [Dixton Software](http://dixton-software.firebaseapp.com).
 - 🌐 I’m managing the website of [Marvelita](http://marvelita.es).
 - 💽 I’m managing the record label [audimus](https://www.youtube.com/channel/UCmMdvNTL3siUGtylCDccdYQ).
-- 🌱 I’m currently learning Electron.js, Swift & Python (with Django).
+- 🌱 I’m currently learning Electron.js, Nextjs & GraphQL (with Apollo).
 
 <br>
 
