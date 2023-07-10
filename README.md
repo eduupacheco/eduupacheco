@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://eduupacheco.github.io/assets/img/profile-img.jpg" width="270" height="370" />
+<img align="right" alt="GIF" src="https://eduupacheco.github.io/images/author.jpg.jpg" width="270" height="370" />
 
 ## Hey there! I'm Eduardo Pacheco <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
@@ -41,21 +41,11 @@ Hi, I'm [Eduardo Pacheco](https://eduupacheco.github.io/), a Full Stack Develope
 
 The most logical reason for the initiation of this project is obvious. As a good fan of Marvel, I decided to direct a simple website to publish news of all kinds about Marvel, until I had the need to develop an API to scale said website. That's right, nowadays the Marvelita website is fully functional, new improvements are being implemented little by little and there are not a few users who enjoy the website.
 
-<a href="http://www.marvelita.es"><code><img height="160" src="https://eduupacheco.github.io/assets/img/webs/marvelita.png"></code></a>
-<a href="http://api.marvelita.es"><code><img height="160" src="https://eduupacheco.github.io/assets/img/apis/marvelitaapi.png"></code></a>
-<a href="http://avengersmemory.marvelita.es"><code><img height="160" src="https://eduupacheco.github.io/assets/img/games/avengersmemory.png"></code></a>
-
   ---
 
 # What is Dixton Software?
 
 Dixton Software is my team of talented developers and designers who help improve the management and image of the best companies. This project was born for several reasons, among them, the most outstanding is to be able to give elegant and creative solutions to our daily needs on a day-to-day basis. Step by step new projects and ideas have been added to this great team for improve our daily needs, such as the following ones:
-
-<a href="http://dixton-software.firebaseapp.com"><code><img height="160" src="https://eduupacheco.github.io/assets/img/webs/dixtonsoftware.png"></code></a>
-<a href="http://k0manda.herokuapp.com"><code><img height="160" src="https://eduupacheco.github.io/assets/img/apps/komanda.png"></code></a>
-<a href="http://justime.herokuapp.com"><code><img height="160" src="https://eduupacheco.github.io/assets/img/apps/justime.png"></code></a>
-<a href="http://hourfy.herokuapp.com"><code><img height="160" src="https://eduupacheco.github.io/assets/img/apps/hourfy.png"></code></a>
-<a href="http://pinglit.herokuapp.com"><code><img height="160" src="https://eduupacheco.github.io/assets/img/apps/pinglit.png"></code></a>
 
   ---
 
