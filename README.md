@@ -8,8 +8,6 @@ Hi, I'm [Eduardo Pacheco](https://eduupacheco.github.io/), a Full Stack Develope
 - 💽 I’m managing the record label [audimus](https://www.youtube.com/channel/UCmMdvNTL3siUGtylCDccdYQ).
 - 🌱 I’m currently learning Electron.js, Nextjs & GraphQL (with Apollo).
 
-<br>
-
 <a href="https://twitter.com/eduupacheco_"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/eduupacheco_?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@eduupacheco_"></a>
 
 <a href="https://www.instagram.com/eduupacheco_/">
