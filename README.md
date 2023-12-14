@@ -1,8 +1,6 @@
-<img align="right" src="https://eduupacheco.github.io/images/author.jpg" width="270" height="370" />
-
 ## Hey there! I'm Eduardo Pacheco <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Hi, I'm [Eduardo Pacheco](https://eduupacheco.github.io/), a Full Stack Developer 🚀 from Tenerife, Canary Islands. I like everything that has to do with design and architecture. Despite spending days in front of a screen listening music and programming, I doing sports, specifically street workout and traveling the world. If you ask me if I like science fiction, I would say no. I just love it. I am a complete fan of Marvel.
+Hi, I'm [Eduardo Pacheco](https://eduupacheco.github.io/), a Full Stack Developer 🚀 from Tenerife, Canary Islands. I like everything that has to do with design and architecture. Despite spending days in front of a screen listening music and programming, I doing sports, specifically street workout and traveling the world. If you ask me if I like science fiction, I would say no. I just love it. I am a complete Marvel fan.
 
 - 🧳 I’m developing software at [Qnary](https://www.qnary.com).
 - 👨🏽‍💻 I’m currently working on my project [Dixton Software](http://dixton-software.firebaseapp.com).
