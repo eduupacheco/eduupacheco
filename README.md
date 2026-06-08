@@ -1,27 +1,9 @@
-## Hey there! I'm Eduardo Pacheco <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hey there! I'm Eduardo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Hi, I'm [Eduardo Pacheco](https://eduupacheco.github.io/), a Full Stack Developer 🚀 from Tenerife, Canary Islands. I like everything that has to do with design and architecture. Despite spending days in front of a screen listening music and programming, I doing sports, specifically street workout and traveling the world. If you ask me if I like science fiction, I would say no. I just love it. I am a complete Marvel fan.
-
-- 🧳 I’m developing software at [Qnary](https://www.qnary.com).
-- 👨🏽‍💻 I’m currently working on my project [Dixton Software](http://dixton-software.firebaseapp.com).
-- 🌐 I’m managing the website of [Marvelita](http://marvelita.es).
-- 💽 I’m managing the record label [audimus](https://www.youtube.com/channel/UCmMdvNTL3siUGtylCDccdYQ).
-- 🌱 I’m currently learning Electron.js, Nextjs & GraphQL (with Apollo).
+Software developer from Tenerife, Canary Islands 🇮🇨🌴
 
 <a href="https://twitter.com/eduupacheco_"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/eduupacheco_?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@eduupacheco_"></a>
 
-<a href="https://www.instagram.com/eduupacheco_/">
-  <img align="left" alt="Eduardo Pacheco | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/eduardopachecoexposito/">
-  <img align="left" alt="Eduardo Pacheco | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://www.twitch.tv/eduupacheco">
-  <img align="left" alt="Eduardo Pacheco | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />
-</a>
-<a href="https://www.youtube.com/channel/UCviRZH-O13e0YJRxQWfOy6g?view_as=subscriber">
-  <img align="left" alt="Eduardo Pacheco | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
 <a href="https://github.com/eduupacheco">
   <img align="left" alt="Eduardo Pacheco | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
@@ -29,25 +11,11 @@ Hi, I'm [Eduardo Pacheco](https://eduupacheco.github.io/), a Full Stack Develope
   <img align="left" alt="Eduardo Pacheco | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=eduupacheco)
-
  ---
-  
-# Marvelita Project
-
-The most logical reason for the initiation of this project is obvious. As a good fan of Marvel, I decided to direct a simple website to publish news of all kinds about Marvel, until I had the need to develop an API to scale said website. That's right, nowadays the Marvelita website is fully functional, new improvements are being implemented little by little and there are not a few users who enjoy the website.
-
-  ---
-
-# What is Dixton Software?
-
-Dixton Software is my team of talented developers and designers who help improve the management and image of the best companies. This project was born for several reasons, among them, the most outstanding is to be able to give elegant and creative solutions to our daily needs on a day-to-day basis. Step by step new projects and ideas have been added to this great team for improve our daily needs, such as the following ones:
-
-  ---
 
 ### Languages and Tools:
 
-Almost 4 years of experience as a programmer and even so there are technologies that I still have to experiment with and others that I know but I cannot get everyone's knowledge. The world of technology is moving faster and faster ...
+More than 5 years of experience as a programmer and even so there are technologies that I still have to experiment with and others that I know but I cannot get everyone's knowledge. The world of technology is moving faster and faster...
 
 <code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
