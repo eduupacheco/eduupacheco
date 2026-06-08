@@ -2,8 +2,6 @@
 
 Software developer from Tenerife, Canary Islands 🇮🇨🌴
 
-<a href="https://twitter.com/eduupacheco_"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/eduupacheco_?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@eduupacheco_"></a>
-
 <a href="https://github.com/eduupacheco">
   <img align="left" alt="Eduardo Pacheco | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
